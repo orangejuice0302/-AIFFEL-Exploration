@@ -1,1 +1,1 @@
-# my_first_repository
+# this is git repository for aiffel exploration 
