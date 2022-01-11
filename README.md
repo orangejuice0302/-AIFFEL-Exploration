@@ -1,1 +1,1 @@
-# this is git repository for aiffel exploration 
+# this is git repository for AIFFEL exploration 
