@@ -1,6 +1,6 @@
 # 👩🏻‍🚀
 
-**I'm exploring the world of AI Machine Learning 🏻‍🚀**
+**I'm exploring the world of AI Machine Learning**
 
 **This repository contains my mini ML projects.**
 
