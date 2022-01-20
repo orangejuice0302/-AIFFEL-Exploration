@@ -1,7 +1,8 @@
-#### I'm exploring the world of AI Machine Learning 👩🏻‍🚀
-### This repository contains my mini ML projects.
+**I'm exploring the world of AI Machine Learning 👩🏻‍🚀**
 
-### Take a look!
+**This repository contains my mini ML projects.**
+
+**Take a look!**
 
 
 Exploration 1: [Classifying_Rock_Paper_Scissors](https://github.com/orangejuice0302/-AIFFEL-Exploration/blob/main/%5BE-01%5D%20Rock_Paper_Scissors.ipynb)
